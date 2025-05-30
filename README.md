@@ -27,10 +27,10 @@ Email Me 👉 ✉️ **protham.dey@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProthamD&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--snake-game-->
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+-->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ProthamD&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
