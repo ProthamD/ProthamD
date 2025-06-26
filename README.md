@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **protham.dey@gmail.com** For Collaboration/Project or Anyt
 
 - 🔭 **I’m currently working on:** My-portfolio, Where I can showcase my other projects and skills.
 - 🌱 **I’m currently learning:** Machine Learning.
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** N/A
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** protham.dey@gmail.com
 - 😄 **Pronouns:** Protham.
