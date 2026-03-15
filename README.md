@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Pratham Dey
 ## 😊 Also known as Protham
-**A passionate Software Engineer || Web Developer || Ai & Machine Learning Enthusiast from India**
+**A passionate Software Engineer || Full Stack Developer || Ai & Machine Learning Enthusiast from India**
 
 Email Me 👉 ✉️ **protham.dey@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
